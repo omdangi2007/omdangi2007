@@ -36,16 +36,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-🔬 [**Myopia Detection using ResNet50**](https://github.com/omdangi2007/Myopia_detection_using_RESNET50)  
-> A deep learning project leveraging **ResNet50** for detecting myopia from medical images — showcasing the power of transfer learning in healthcare.
-
-📊 [**FANDANGO Data Visualization**](https://github.com/omdangi2007/FANDANGO_DATA_VISUALISATION)  
-> A data visualization project analyzing real-world datasets to uncover insights through advanced plotting and analytics.
-
----
-
 ## 📈 GitHub Stats  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omdangi2007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
