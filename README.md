@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at Vishwakarma University, Pune  
-- 🧠 Interested in **Deep Learning, Computer Vision, and Generative AI (RAG)**  
+- 🧠 Interested in **Deep Learning, machine learning ,MLOPS , RAG and Genreative AI**  
 - 💻 Skilled in **Python, C, C++, TensorFlow, PyTorch, and Scikit-learn**  
 - 📊 Enjoys building models, visualizations, and AI-driven applications  
 - 📚 Loves reading **self-help and non-fiction** books  
