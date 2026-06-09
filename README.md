@@ -2,7 +2,7 @@
 
 🌟 **AI/ML Enthusiast | B.Tech in AIML | Lifelong Learner**
 
-💡 Exploring the world of Artificial Intelligence & Machine Learning, with a focus on building impactful projects that combine theory with real-world applications.  
+💡 Exploring the world of Artificial Intelligence & Machine Learning, with a focus on building impactful projects that combine theory with real world applications.  
 
 ---
 
