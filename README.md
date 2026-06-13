@@ -48,7 +48,6 @@
 
 ## 📫 Let's Connect  
 - 📧 Email: *omvdangi2525@gmail.com*  
-- 🧩 Kaggle: [kaggle.com/omdangi07](https://www.kaggle.com/omdangi07)
 - 💼 LinkedIn:[Om Dangi](https://www.linkedin.com/in/omdangi250107)
 
 ---
